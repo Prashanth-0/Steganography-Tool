@@ -19,6 +19,6 @@ cd Steganography-Tool
 ```bash
 pip install -r requirements.txt
 ```
-This installs the required libraries: 'opencv-python', 'numpy', 'colorama', 'termcolor'.
+This installs the required libraries: ' opencv-python ', 'numpy', 'colorama', 'termcolor'.
 
 
