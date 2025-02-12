@@ -76,3 +76,18 @@ To extract the hidden message or file from the encoded image, use the Decode opt
 4. Enter the filename to save the extracted data (e.g., extracted.pdf)
 
 5. The extracted file is saved successfully.
+
+## *⚠ Notes*
+
+You must use the same n-bits value for decoding as was used for encoding.
+
+The larger the n-bits value, the more data can be hidden, but the image quality decreases.
+
+Encoded images should not be recompressed (e.g., avoid saving as JPEG again).
+
+## *👨‍💻 Author*
+
+Created by *Prashanth*
+
+
+GitHub: https://github.com/your-username 
