@@ -87,5 +87,5 @@ Encoded images should not be recompressed (e.g., avoid saving as JPEG again).
 
 ## *👨‍💻 Author*
 
-Created by *Prashanth*
+Created by `*Prashanth*`
  
