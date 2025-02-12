@@ -12,4 +12,5 @@ A Python-based steganography tool that allows you to hide text or files inside i
 ### *Step 1: Clone the Repository*
 ```bash 
 git clone https://github.com/Prashanth-0/Steganography-Tool.git
+'''
 cd Steganography-Tool
