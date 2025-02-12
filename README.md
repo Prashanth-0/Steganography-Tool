@@ -7,3 +7,9 @@ A Python-based steganography tool that allows you to hide text or files inside i
 ✅ *Colorful and stylish terminal output* (via colorama and termcolor)  
 ✅ *User-friendly interactive menu*  
 ✅ *Error handling for missing files and invalid input*  
+
+## *📦 Installation*
+### *Step 1: Clone the Repository*
+```bash 
+git clone https://github.com/Prashanth-0/Steganography-Tool.git
+cd Steganography-Tool
