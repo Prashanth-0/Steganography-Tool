@@ -88,6 +88,4 @@ Encoded images should not be recompressed (e.g., avoid saving as JPEG again).
 ## *👨‍💻 Author*
 
 Created by *Prashanth*
-
-
-GitHub: https://github.com/your-username 
+ 
