@@ -15,7 +15,7 @@ git clone https://github.com/Prashanth-0/Steganography-Tool.git
 
 cd Steganography-Tool
 ```
-# *Step 2: Install Dependencies*
+### *Step 2: Install Dependencies*
 ```bash
 pip install -r requirements.txt
 ```
