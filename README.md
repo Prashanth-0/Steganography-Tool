@@ -14,3 +14,10 @@ A Python-based steganography tool that allows you to hide text or files inside i
 git clone https://github.com/Prashanth-0/Steganography-Tool.git
 
 cd Steganography-Tool
+```
+## *Step 2: Install Dependencies*
+```bash
+pip install -r requirements.txt
+```
+
+
