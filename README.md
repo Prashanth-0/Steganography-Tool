@@ -27,10 +27,15 @@ This tool allows you to hide text messages or files inside images.
 ### *1️⃣ Hide a Text Message in an Image*
 
 1.Select option 1️⃣ Encode
+
 2.Enter the image file name (e.g., test.jpg)
+
 3.Enter 'T' for text mode
+
 4.Type the secret message to hide
+
 5.Enter the number of LSB bits to use (1-4, default 2)
+
 6.The encoded image is saved as `test_encoded.png`.
 
 ### *2️⃣ Hide a File in an Image*
